@@ -1,3 +1,8 @@
+---
+layout: default
+title: DSC 180A Methodology
+---
+
 **Name:** Simone Rao  
 **Email:** [sirao@ucsd.edu](mailto:sirao@ucsd.edu)  
 **Section:** D07  

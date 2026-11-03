@@ -23,4 +23,4 @@ One aspect of my Quarter 1 approach that I would change is how long I am giving 
 
 **4. What other techniques would you be interested in using in your project?**
 
-Techniques that I would be interested in using in my project include data visualization and machine learning. S
+Techniques that I would be interested in using in my project include data visualization and machine learning. 
